@@ -1,0 +1,224 @@
+C:\Users\Aula\source\repos\API_Tranca_Curso\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aula\source\repos\API_Tranca_Curso\bin\Debug\net6.0\appsettings.json
+C:\Users\Aula\source\repos\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.exe
+C:\Users\Aula\source\repos\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.deps.json
+C:\Users\Aula\source\repos\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.runtimeconfig.json
+C:\Users\Aula\source\repos\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.dll
+C:\Users\Aula\source\repos\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.pdb
+C:\Users\Aula\source\repos\API_Tranca_Curso\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aula\source\repos\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aula\source\repos\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aula\source\repos\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.AssemblyReference.cache
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.AssemblyInfoInputs.cache
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.AssemblyInfo.cs
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.CoreCompileInputs.cache
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.API_Tranca_Curso.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.build.API_Tranca_Curso.props
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API_Tranca_Curso.props
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API_Tranca_Curso.props
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\scopedcss\bundle\API_Tranca_Curso.styles.css
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.CopyComplete
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.dll
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\refint\API_Tranca_Curso.dll
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.pdb
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.genruntimeconfig.cache
+C:\Users\Aula\source\repos\API_Tranca_Curso\obj\Debug\net6.0\ref\API_Tranca_Curso.dll
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\appsettings.json
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.exe
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.deps.json
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.runtimeconfig.json
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.dll
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.pdb
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.AssemblyReference.cache
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.AssemblyInfoInputs.cache
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.AssemblyInfo.cs
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.API_Tranca_Curso.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.build.API_Tranca_Curso.props
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API_Tranca_Curso.props
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API_Tranca_Curso.props
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\scopedcss\bundle\API_Tranca_Curso.styles.css
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.CopyComplete
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.dll
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\refint\API_Tranca_Curso.dll
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.pdb
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.genruntimeconfig.cache
+C:\Users\Aula\Downloads\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\ref\API_Tranca_Curso.dll
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.AssemblyReference.cache
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.AssemblyInfoInputs.cache
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.AssemblyInfo.cs
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.CoreCompileInputs.cache
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.dll
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\refint\API_Tranca_Curso.dll
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.pdb
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\appsettings.json
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.exe
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.deps.json
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.runtimeconfig.json
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.dll
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.pdb
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.API_Tranca_Curso.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.build.API_Tranca_Curso.props
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API_Tranca_Curso.props
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API_Tranca_Curso.props
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\scopedcss\bundle\API_Tranca_Curso.styles.css
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.CopyComplete
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.genruntimeconfig.cache
+C:\Users\Caio Sousa\Downloads\API_Tranca_C-20230603T113352Z-001\API_Tranca_C\API_Tranca_Curso\obj\Debug\net6.0\ref\API_Tranca_Curso.dll
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\appsettings.json
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.exe
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.deps.json
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.runtimeconfig.json
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.dll
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.pdb
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.AssemblyReference.cache
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.AssemblyInfoInputs.cache
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.AssemblyInfo.cs
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.CoreCompileInputs.cache
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.API_Tranca_Curso.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.build.API_Tranca_Curso.props
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API_Tranca_Curso.props
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API_Tranca_Curso.props
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\scopedcss\bundle\API_Tranca_Curso.styles.css
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.CopyComplete
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.dll
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\refint\API_Tranca_Curso.dll
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.pdb
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.genruntimeconfig.cache
+C:\Users\Caio Sousa\Documents\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\ref\API_Tranca_Curso.dll
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\appsettings.json
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.exe
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.deps.json
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.runtimeconfig.json
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.dll
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.pdb
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.AssemblyReference.cache
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.AssemblyInfo.cs
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.API_Tranca_Curso.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.build.API_Tranca_Curso.props
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API_Tranca_Curso.props
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API_Tranca_Curso.props
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\scopedcss\bundle\API_Tranca_Curso.styles.css
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.CopyComplete
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.dll
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\refint\API_Tranca_Curso.dll
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.pdb
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.genruntimeconfig.cache
+C:\Users\John\source\repos\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\ref\API_Tranca_Curso.dll
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\appsettings.json
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.exe
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.deps.json
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.runtimeconfig.json
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.dll
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.pdb
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.AssemblyReference.cache
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.AssemblyInfoInputs.cache
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.AssemblyInfo.cs
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.API_Tranca_Curso.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.build.API_Tranca_Curso.props
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API_Tranca_Curso.props
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API_Tranca_Curso.props
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\scopedcss\bundle\API_Tranca_Curso.styles.css
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.CopyComplete
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.dll
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\refint\API_Tranca_Curso.dll
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.pdb
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.genruntimeconfig.cache
+C:\Users\Aula\Downloads\API_Tranca_Curso\API_Tranca_Curso\obj\Debug\net6.0\ref\API_Tranca_Curso.dll
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\bin\Debug\net6.0\appsettings.json
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.exe
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.deps.json
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.runtimeconfig.json
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.dll
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\bin\Debug\net6.0\API_Tranca_Curso.pdb
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.AssemblyReference.cache
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.AssemblyInfoInputs.cache
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.AssemblyInfo.cs
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.CoreCompileInputs.cache
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.API_Tranca_Curso.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.build.API_Tranca_Curso.props
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API_Tranca_Curso.props
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API_Tranca_Curso.props
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\scopedcss\bundle\API_Tranca_Curso.styles.css
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.csproj.CopyComplete
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.dll
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\refint\API_Tranca_Curso.dll
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.pdb
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\API_Tranca_Curso.genruntimeconfig.cache
+C:\Users\Caio Sousa\Downloads\API_TC - Final\API_Tranca_Curso\obj\Debug\net6.0\ref\API_Tranca_Curso.dll

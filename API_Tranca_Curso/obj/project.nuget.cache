@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "b0S01vexzsjg+80cn+VSq6j04UpMeGcbrn98ggMyYv2zOPF43M0p5SWgX+pM+Oket4VbICzsdCmm4GwxWz4vNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Caio Sousa\\Downloads\\API_TC - Final\\API_Tranca_Curso\\API_Tranca_Curso.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caio Sousa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Caio Sousa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Caio Sousa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Caio Sousa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Caio Sousa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Caio Sousa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
